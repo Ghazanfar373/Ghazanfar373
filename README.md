@@ -11,7 +11,7 @@
 [![MahmoudMabrok's github stats](https://github-readme-stats.vercel.app/api?username=Ghazanfar373)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ghazanfar373)](https://github.com/Ghazanfar373/github-profile-trophy)
+
 
 
 
