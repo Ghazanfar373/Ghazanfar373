@@ -7,8 +7,6 @@
 - How to reach me: [Linkedin](https://www.linkedin.com/in/alighazanfar/)
 
 
-# Stats 
-[![MahmoudMabrok's github stats](https://github-readme-stats.vercel.app/api?username=Ghazanfar373)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
